@@ -7,5 +7,5 @@ absl-py==0.10.0
 tf-slim==1.1.0
 ml-metadata==0.26.0
 keras-tuner==1.0.4
-mock==4.0.8
+mock==2.0.8
 pandas=1.1.0
